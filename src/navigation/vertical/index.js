@@ -32,18 +32,18 @@ function processMenu() {
   } else {
     chainMenus.push({
       title: 'Website',
-      href: 'http://www.alfonova.app',
+      href: 'https://sychonix.me',
       icon: 'https://i.ibb.co/k68ZjtC/logo.png',
     })
   }
   chainMenus.push({
     title: 'Twitter',
-    href: 'https://twitter.com/Node_Hunter',
+    href: 'https://twitter.com/sychonixx',
     icon: 'TwitterIcon',
   })
   chainMenus.push({
     title: 'Github',
-    href: 'https://github.com/Alfonova-Node/explorer',
+    href: 'https://github.com/sychonix',
     icon: 'GithubIcon',
   })
 
