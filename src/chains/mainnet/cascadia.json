@@ -1,8 +1,8 @@
 {
     "chain_name": "cascadia-testnet",
     "coingecko": "cascadia",
-    "api": ["https://api.cascadia-t.indonode.net"],
-    "rpc": ["https://rpc.cascadia-t.indonode.net"],
+    "api": ["https://cascadia-testnet.nodejumper.io:1317"],
+    "rpc": ["https://cascadia-testnet.rpc.kjnodes.com/"],
     "snapshot_provider": "",
     "sdk_version": "0.46.1",
     "coin_type": "118",
