@@ -1,7 +1,7 @@
 {
     "chain_name": "c4e-testnet",
-    "api": ["https://api.c4e-t.indonode.net/"],
-    "rpc": ["https://rpc.c4e-t.indonode.net/"],
+    "api": ["*"],
+    "rpc": ["https://c4e.api.t.stavr.tech"],
     "snapshot_provider": "48051143b7d1fde04fed55c73f19a66ef89f4cdd@rpc.c4e-t.indonode.net:48656",
     "sdk_version": "0.46.10",
     "coin_type": "118",
