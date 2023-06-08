@@ -1,12 +1,7 @@
 {
     "chain_name": "ojo-testnet",
-    "api": [
-      "https://ojo-testnet.api.kjnodes.com/","https://api.ojo-t.indonode.net/"
-      
-    ],
-    "rpc": [
-      "https://ojo-testnet.rpc.kjnodes.com/","https://rpc.ojo-t.indonode.net/"
-    ],
+    "api": ["https://ojo-testnet.api.kjnodes.com/","https://api.ojo-t.indonode.net/"],
+    "rpc": ["https://ojo-testnet.nodejumper.io:443"],
     "sdk_version": "0.46.7",
     "addr_prefix": "ojo",
     "min_tx_fee": "5000",
