@@ -15,12 +15,10 @@
     </b-link>
 
     <p class="mb-1">
-      👑IBC Relayer & Professional PoS Network Validator
-Stake and Take your rewards
-Low Fees , Highly Secured , And 24/7 Monitored👑
+     Ping Dashboard is not just an explorer but also a wallet and more ... 🛠
     </p>
     <h2 class="mb-3">
-     👑Cosmos Ecosystem Blockchains 👑
+     Cosmos Ecosystem Blockchains 🚀
     </h2>
 
     <div>
