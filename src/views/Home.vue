@@ -9,7 +9,7 @@
         >
         <img src="logo.png" alt="logo" style="width:100px;height:100px;margin: 12px;" onContextMenu="return false;">
 
-          ALFONOVA<small class="flow-left"></small>
+          sychonix | EXPLORER<small class="flow-left"></small>
         </h1>
       </div>
     </b-link>
