@@ -1,7 +1,7 @@
 {
     "chain_name": "empower-testnet",
-    "api": ["https://empower-testnet-api.polkachu.com/"],
-    "rpc": ["https://empower-testnet-rpc.polkachu.com/"],
+    "api": ["https://empw.api.t.stavr.tech/"],
+    "rpc": ["https://empower-testnet.nodejumper.io:443"],
     "snapshot_provider": "",
     "sdk_version": "0.47.2",
     "coin_type": "118",
