@@ -1,22 +1,20 @@
-{
-    "chain_name": "cascadia-testnet",
-    "coingecko": "cascadia",
-    "api": ["https://cascadia-testnet.nodejumper.io:1317"],
-    "rpc": ["https://cascadia-testnet.rpc.kjnodes.com/"],
-    "snapshot_provider": "",
-    "sdk_version": "0.46.1",
-    "coin_type": "118",
-    "min_tx_fee": "7",
-    "addr_prefix": "cascadia",
-    "logo": "/logos/cascadia.png",
-    "assets": [
-      {
-        "base": "aCC",
-        "symbol": "CC",
-        "exponent": "6",
-        "coingecko_id": "",
-        "logo": "/logos/cascadia.png"
-      }
-    ]
-  }
+{ 
+     "chain_name": "cascadia-testnet", 
+     "api": ["https://cascadia-testnet.nodejumper.io:1317"], 
+     "rpc": ["https://cascadia-testnet.rpc.kjnodes.com/"], 
+     "snapshot_provider": "", 
+     "sdk_version": "0.46.1", 
+     "coin_type": "118", 
+     "min_tx_fee": "7", 
+     "addr_prefix": "cascadia", 
+     "logo": "/logos/cascadia.png", 
+     "assets": [{ 
+  
+         "base": "aCC", 
+         "symbol": "CC", 
+         "exponent": "6", 
+         "logo": "/logos/cascadia.png" 
+       } 
+     ] 
+   }
   
