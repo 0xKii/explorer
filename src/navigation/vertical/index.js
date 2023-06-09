@@ -27,13 +27,13 @@ function processMenu() {
     chainMenus.push({
       title: 'Mainnet Explorer',
       href: 'https://explorer.alfonova.app',
-      icon: 'https://i.ibb.co/k68ZjtC/logo.png',
+      icon: 'https://ibb.co/W0bzR3f/logo.png',
     })
   } else {
     chainMenus.push({
       title: 'Website',
       href: 'https://sychonix.me',
-      icon: 'https://i.ibb.co/k68ZjtC/logo.png',
+      icon: 'https://ibb.co/W0bzR3f/logo.png',
     })
   }
   chainMenus.push({
