@@ -9,7 +9,7 @@ export const $themeBreakpoints = {}
 // APP CONFIG
 export const $themeConfig = {
   app: {
-    appName: 'ALFONOVA', // Will update name in navigation menu (Branding)
+    appName: 'sychonix', // Will update name in navigation menu (Branding)
     // eslint-disable-next-line global-require
     appLogoImage: '/logo.png', // Will update logo in navigation menu (Branding)
   },
