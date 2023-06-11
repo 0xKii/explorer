@@ -1,8 +1,8 @@
 {
-    "chain_name": "terp",
+    "chain_name": "terp-mainnet",
     "coingecko": "",
-    "api": ["*"],
-    "rpc": ["https://terpnetwork.nodejumper.io:443"],
+    "api": ["https://rest.cosmos.directory/terpnetwork"],
+    "rpc": ["https://rpc.cosmos.directory/terpnetwork"],
     "snapshot_provider": "",
     "sdk_version": "0.47.1",
     "coin_type": "118",
