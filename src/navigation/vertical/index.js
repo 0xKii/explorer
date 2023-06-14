@@ -16,26 +16,31 @@ function processMenu() {
   if (blockchains.length > 1) {
     chainMenus.push({ header: 'ecosystem' })
     chainMenus.push({
-      title: 'blockchains',
+      title: 'chains',
       children: blockchains,
       tag: `${blockchains.length}`,
-      icon: 'https://i.ibb.co/k68ZjtC/logo.png',
+      icon: 'ChromeIcon',
     })
   }
   chainMenus.push({ header: 'LINKS' })
   if (isTestnet()) {
     chainMenus.push({
-      title: 'Mainnet Explorer',
-      href: 'https://explorer.alfonova.app',
-      icon: 'https://ibb.co/W0bzR3f/logo.png',
+      title: 'Website Service',
+      href: 'https://service.sychonix.me/',
+      icon: 'ChromeIcon',
     })
   } else {
     chainMenus.push({
       title: 'Website',
       href: 'https://sychonix.me',
-      icon: 'https://ibb.co/W0bzR3f/logo.png',
+      icon: 'LifeBuoyIcon',
     })
   }
+  chainMenus.push({
+    title: 'Discord',
+    href: 'https://discordapp.com/users/803665234799362088',
+    icon: 'MessageSquareIcon',
+  })
   chainMenus.push({
     title: 'Twitter',
     href: 'https://twitter.com/sychonixx',
