@@ -1,5 +1,6 @@
 {
-    "chain_name": "composable-testnet-2",
+    "chain_name": "composable-2",
+    "chainId": "banksy-testnet-2",
     "api": ["https://composable-testnet.nodejumper.io:1317"],
     "rpc": ["https://composable-testnet.nodejumper.io:443"],
     "snapshot_provider": "",
